@@ -18,6 +18,7 @@ How to use Beego-KindEditor
 
 4. Add the script and html like the code in views/index.html
 
+'''html
 <link rel="stylesheet" href="/static/Kindeditor/themes/default/default.css" />
   <script charset="utf-8" src="/static/kindeditor/kindeditor-all.js"></script>
   <script charset="utf-8" src="/static/Kindeditor/lang/zh-CN.js"></script>
@@ -38,7 +39,7 @@ How to use Beego-KindEditor
    <form>
       <textarea name="content" style="width:800px;height:400px;visibility:hidden;">KindEditor</textarea>
     </form>
-
+'''
 
 
 
